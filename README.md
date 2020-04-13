@@ -15,4 +15,4 @@ The state space has 37 dimensions and consists of the agent's velocity together 
 The agent trained until it succeeds in getting a cumulative reward of +13 in average over 100 consecutive episodes, where one episode consists of 300 steps.
 
 ### Getting Started
-Prepare an conda environment using [these instructions](https://github.com/udacity/deep-reinforcement-learning#dependencies). Open up the file [collect-bananas.ipynb](https://github.com/Johannathorsen/collect-bananas/blob/master/collect-bananas.ipynb) in [jupyter notebook](https://jupyter.org/) and follow the instructions to train and test the agent in the unity environment.
+Prepare a [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) environment using [these instructions](https://github.com/udacity/deep-reinforcement-learning#dependencies). Open up the file [collect-bananas.ipynb](https://github.com/Johannathorsen/collect-bananas/blob/master/collect-bananas.ipynb) in [jupyter notebook](https://jupyter.org/) and follow the instructions to train and test the agent in the unity environment.
